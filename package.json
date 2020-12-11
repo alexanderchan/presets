@@ -1,0 +1,13 @@
+{
+  "name": "presets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Chan <achan@godaddy.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
