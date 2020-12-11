@@ -1,5 +1,5 @@
 {
-  "name": "presets",
+  "name": "@alexanderchan/presets",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Alex Chan <achan@godaddy.com>",
@@ -10,5 +10,6 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.22.1"
-  }
+  },
+  "dependencies": {}
 }
